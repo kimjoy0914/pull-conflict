@@ -7,3 +7,4 @@ hello case2
 hello case3
 hello case4
 hello case4원격지수정
+로컬 case5 상황연출

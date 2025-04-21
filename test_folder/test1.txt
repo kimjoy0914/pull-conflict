@@ -1,12 +1,15 @@
 hello world1 
+원격stash추가1
 file추가1
 hello world2
 file추가2
+원격stash추가2
 hello world3
 hello case2
 hello case3
 hello case4
 hello case4원격지수정
+원격 stash추가3
 로컬 case5 상황연출
 case 5 상황 원격지 수정
 로컬 case5 상황연출 -> 다시 수정
